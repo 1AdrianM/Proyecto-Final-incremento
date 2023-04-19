@@ -1,0 +1,4 @@
+Este es el registro para iniciar sesion en el programa
+
+User:Admin
+contraseña:123.

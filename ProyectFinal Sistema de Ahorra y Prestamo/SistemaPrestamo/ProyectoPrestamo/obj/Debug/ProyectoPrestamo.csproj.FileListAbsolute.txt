@@ -1,0 +1,153 @@
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\FontAwesome.Sharp.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Form1.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarCobro.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmHistorialPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmClientes.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmConfiguracion.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmMisDatos.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmTipoMoneda.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmResumenGeneral.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DBPRESTAMO.db
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.EF6.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.Linq.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClausulas.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClientes.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xmlworker.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.mdModificarPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCancelarPrestamo.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCliente.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdTipoMoneda.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdcambiarclave.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdAcercade.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.Login.resources
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe.config
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.pdb
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.exe
+D:\WorkSpaceAD\YOUTUBE\036_FUNCIONALIDAD PRESTAMOS\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.pdb
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.AssemblyReference.cache
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Form1.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmClientes.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmConfiguracion.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmHistorialPrestamo.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmMisDatos.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.Login.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdAcercade.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdcambiarclave.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCancelarPrestamo.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCliente.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.mdModificarPrestamo.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarCobro.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarPrestamo.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmResumenGeneral.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmTipoMoneda.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClausulas.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClientes.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdTipoMoneda.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Properties.Resources.resources
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.GenerateResource.cache
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.exe
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.pdb
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DBPRESTAMO.db
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe.config
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.pdb
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.Packaging.dll
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.pdb
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.xml
+C:\Users\CHINO\Downloads\036_PROYECTO PRESTAMO\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CopyComplete
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DBPRESTAMO.db
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe.config
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.exe
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\CE Prestamo.pdb
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.IO.Packaging.dll
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.pdb
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ClosedXML.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\ExcelNumberFormat.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\itextsharp.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\bin\Debug\System.Data.SQLite.xml
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.AssemblyReference.cache
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Form1.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmClientes.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmConfiguracion.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmHistorialPrestamo.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmMisDatos.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.Login.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdAcercade.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdcambiarclave.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCancelarPrestamo.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdCliente.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.mdModificarPrestamo.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarCobro.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmRegistrarPrestamo.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmResumenGeneral.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Formularios.frmTipoMoneda.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClausulas.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdClientes.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Modales.mdTipoMoneda.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.Properties.Resources.resources
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.GenerateResource.cache
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\ProyectoPrestamo.csproj.CopyComplete
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.exe
+C:\Users\CHINO\Downloads\ProyectFinal Sistema de Ahorra y Prestamo\SistemaPrestamo\ProyectoPrestamo\obj\Debug\CE Prestamo.pdb
